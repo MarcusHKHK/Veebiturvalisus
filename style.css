@@ -1,0 +1,14 @@
+.jumbo{
+  background-image: url("/info/internet-safety-for-your-child.png");
+}
+.card-img-top {
+  width: 100%;
+  height: 15vw;
+  object-fit: cover;
+  display: flex;
+  justify-content: center;
+}
+.footer-bottom{
+    width: 100%;
+    scale: 1.0145;
+}
